@@ -1,0 +1,15 @@
+:root {
+	--textVeryDarkDesaturatedBlue: hsl(238, 29%, 16%);
+	--textSoftRed: hsl(14, 88%, 65%);
+	--gradientSoftViolet: hsl(273, 75%, 66%);
+	--gradientSoftBlue: hsl(240, 73%, 65%);
+	--textVeryDarkGrayishBlue: hsl(237, 12%, 33%);
+	--textDarkGrayishBlue: hsl(240, 6%, 50%);
+	--dividerLightGrayishBlue: hsl(240, 5%, 91%);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
